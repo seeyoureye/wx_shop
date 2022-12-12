@@ -1,6 +1,6 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/home/home"],{
 
-/***/ 50:
+/***/ 32:
 /*!*************************************************************************************************!*\
   !*** /Users/carbon/Documents/HBuilderProjects/test_shop/main.js?{"page":"pages%2Fhome%2Fhome"} ***!
   \*************************************************************************************************/
@@ -13,7 +13,7 @@
 var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 3);
 __webpack_require__(/*! uni-pages */ 25);
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 24));
-var _home = _interopRequireDefault(__webpack_require__(/*! ./pages/home/home.vue */ 51));
+var _home = _interopRequireDefault(__webpack_require__(/*! ./pages/home/home.vue */ 33));
 // @ts-ignore
 wx.__webpack_require_UNI_MP_PLUGIN__ = __webpack_require__;
 createPage(_home.default);
@@ -21,7 +21,7 @@ createPage(_home.default);
 
 /***/ }),
 
-/***/ 51:
+/***/ 33:
 /*!******************************************************************************!*\
   !*** /Users/carbon/Documents/HBuilderProjects/test_shop/pages/home/home.vue ***!
   \******************************************************************************/
@@ -32,5 +32,5 @@ throw new Error("Module build failed (from ./node_modules/@dcloudio/webpack-uni-
 
 /***/ })
 
-},[[50,"common/runtime","common/vendor"]]]);
+},[[32,"common/runtime","common/vendor"]]]);
 //# sourceMappingURL=../../../.sourcemap/mp-weixin/pages/home/home.js.map

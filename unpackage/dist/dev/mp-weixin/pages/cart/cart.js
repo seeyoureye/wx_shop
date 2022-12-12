@@ -1,6 +1,6 @@
 (global["webpackJsonp"] = global["webpackJsonp"] || []).push([["pages/cart/cart"],{
 
-/***/ 62:
+/***/ 44:
 /*!*************************************************************************************************!*\
   !*** /Users/carbon/Documents/HBuilderProjects/test_shop/main.js?{"page":"pages%2Fcart%2Fcart"} ***!
   \*************************************************************************************************/
@@ -13,7 +13,7 @@
 var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ 3);
 __webpack_require__(/*! uni-pages */ 25);
 var _vue = _interopRequireDefault(__webpack_require__(/*! vue */ 24));
-var _cart = _interopRequireDefault(__webpack_require__(/*! ./pages/cart/cart.vue */ 63));
+var _cart = _interopRequireDefault(__webpack_require__(/*! ./pages/cart/cart.vue */ 45));
 // @ts-ignore
 wx.__webpack_require_UNI_MP_PLUGIN__ = __webpack_require__;
 createPage(_cart.default);
@@ -21,7 +21,7 @@ createPage(_cart.default);
 
 /***/ }),
 
-/***/ 63:
+/***/ 45:
 /*!******************************************************************************!*\
   !*** /Users/carbon/Documents/HBuilderProjects/test_shop/pages/cart/cart.vue ***!
   \******************************************************************************/
@@ -32,5 +32,5 @@ throw new Error("Module build failed (from ./node_modules/@dcloudio/webpack-uni-
 
 /***/ })
 
-},[[62,"common/runtime","common/vendor"]]]);
+},[[44,"common/runtime","common/vendor"]]]);
 //# sourceMappingURL=../../../.sourcemap/mp-weixin/pages/cart/cart.js.map
